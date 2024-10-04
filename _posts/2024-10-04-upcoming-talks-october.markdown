@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Upcoming talks in October 2024 "
+title:  "Upcoming Talks in October 2024"
 date:   2024-10-04 15:11:00 +0100
 categories: update
 ---

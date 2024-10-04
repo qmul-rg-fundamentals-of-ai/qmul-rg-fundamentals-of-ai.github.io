@@ -1,1 +1,0 @@
-# qmul-rg-fundamentals-of-ai.github.io

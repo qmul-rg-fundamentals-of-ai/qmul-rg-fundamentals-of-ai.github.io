@@ -15,6 +15,7 @@ The current talks scheduled are:
 ## 6th of November: ICLR 2025 Reviews
 
 **[Gabryel Mason-Williams](https://gmw99.github.io/)** and **[Fredrik Dahlqvist](https://fredrikdahlqvist.wordpress.com/)** will be presenting and discussing the paper's they have reviewed for ICLR 2025.
+
 ***Abstract***
 
 An overview of what they thought was good, bad, and current trends within the work they reviewed. 
@@ -22,6 +23,7 @@ An overview of what they thought was good, bad, and current trends within the wo
 ## 20th of November: Understanding Model Calibration - A gentle & visual introduction to classic calibration and the expected calibration error + alternative definitions of calibration 
 
 **[Maja Pavlovic](https://uk.linkedin.com/in/maja-pavlovic)** will be presenting and discussing the the works surrounding model calibration.
+
 ***Abstract***
 
 To be updated.

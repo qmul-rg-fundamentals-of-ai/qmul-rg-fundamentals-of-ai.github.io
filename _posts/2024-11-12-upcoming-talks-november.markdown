@@ -14,7 +14,7 @@ The current talks scheduled are:
 
 ## 6th of November: ICLR 2025 Reviews
 
-**[Gabryel Mason-Williams](https://openreview.net/profile?id=~Israel_Mason-Williams1)** and **[Fredrik Dahlqvist](https://fredrikdahlqvist.wordpress.com/)** will be presenting and discussing the paper's they have reviewed for ICLR 2025.
+**[Gabryel Mason-Williams](https://gmw99.github.io/)** and **[Fredrik Dahlqvist](https://fredrikdahlqvist.wordpress.com/)** will be presenting and discussing the paper's they have reviewed for ICLR 2025.
 ***Abstract***
 
 An overview of what they thought was good, bad, and current trends within the work they reviewed. 

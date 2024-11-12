@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Upcoming Talks in October 2024"
-date:   2024-10-04 15:11:00 +0100
+title:  "Upcoming Talks in November 24"
+date:   2024-11-12 10:50:00 +0100
 categories: update
 ---
 
 Hello all, 
 
 
-We will meet in the **Maths Building Room 503** this October from **10:30-12:00**. 
+We will meet in the **Maths Building Room 503** this November from **10:30-12:00**. 
 
 The current talks scheduled are: 
 

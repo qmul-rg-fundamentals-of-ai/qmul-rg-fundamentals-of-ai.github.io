@@ -16,4 +16,4 @@ To be considered reliable, a model must be calibrated so that its confidence in 
 
 **Updates**
 
-Since this talk was presented it the work was turn into a [blog post](https://iclr-blogposts.github.io/2025/blog/calibration/) {% cite pavlovic2025understandingmodelcalibration %} and **Won** Best Blog Post at [ICLR 2025](https://iclr-blogposts.github.io/2025/about/).
+Since this talk was presented it the work was turn into a [blog post](https://iclr-blogposts.github.io/2025/blog/calibration/) {% cite pavlovic2025understandingmodelcalibration %} and **Won** 🏆**Best Blog Post**🏆 at [ICLR 2025](https://iclr-blogposts.github.io/2025/about/).

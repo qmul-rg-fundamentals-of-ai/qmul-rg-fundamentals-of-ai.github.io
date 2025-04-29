@@ -26,8 +26,10 @@ The scope of the reading group currently is but certainly not limited to:
 - Implicit Regularisation
 - Uncertainty Quantification
 
-Please look at <a href="/papers-explored/index.html">Papers Explored</a> as well as <a href="/talks-and-papers/index.html">Talks and Papers</a> to see arange of the topics that have been covered in the past.
+Please look at <a href="/papers-explored/index.html">Papers Explored</a> as well as <a href="/talks-and-papers/index.html">Talks and Papers</a> to see a range of the topics that have been covered in the past.
 
 If you would like to present a paper or talk about current research, ideas/experiments you would like to collaborate on or explore that are related to the Fundamentals of AI, however broad or detailed, please message Gabryel Mason-Williams @ <g.t.mason-williams@qmul.ac.uk> to present or join the reading groups mailing list.
 
 Please note that we strongly encourge in person attendace however do support online attendance.
+
+More details on the upcomming location to follow.

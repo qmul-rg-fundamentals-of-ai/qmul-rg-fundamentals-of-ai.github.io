@@ -3,7 +3,7 @@ layout: post
 title: Neural Network Compression - The Functional Perspective (+ Extensions)
 date: 2024-10-09 10:30:00
 description: Presented by Israel Mason-Williams
-tags: publised-paper invited-talk
+tags: publised-papers invited-talk
 categories: talks
 related_publications: true
 ---

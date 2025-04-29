@@ -72,11 +72,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-deep-learning-is-not-so-mysterious-or-different",
         
-          title: "a post with plotly.js",
+          title: "Deep Learning is Not So Mysterious or Different",
         
-        description: "this is what included plotly.js code could look like",
+        description: "Presented by Gabryel Mason-Williams",
         section: "Posts",
         handler: () => {
           

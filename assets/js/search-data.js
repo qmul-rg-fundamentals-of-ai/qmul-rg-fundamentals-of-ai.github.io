@@ -129,10 +129,12 @@ ninja.data = [{
             window.location.href = "/blog/2024/functional-perspective/";
           
         },
-      },{id: "news-currently-planning-next-semsters-talks-which-will-start-from-the-7th-of-may",
-          title: 'Currently Planning next Semsters Talks which will start from the 7th of May....',
+      },{id: "news-may-and-june-talks-2025",
+          title: 'May and June Talks 2025',
           description: "",
-          section: "News",},{
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-may-to-june-talks/";
+            },},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
